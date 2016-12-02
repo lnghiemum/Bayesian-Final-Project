@@ -1,6 +1,6 @@
-# STAT 6390 Paper
+# STAT 6390 Final Project
 
-# DP 
+# HDP 
 # Notation like Teh Jor Paper (2010)
 # Put a limit on K
 K = 100 
