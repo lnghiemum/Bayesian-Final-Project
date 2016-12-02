@@ -1,4 +1,4 @@
-# HDP
+# STAT 6390 Paper
 
 # DP 
 # Notation like Teh Jor Paper (2010)
